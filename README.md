@@ -54,5 +54,27 @@ This is not legal advice, financial advice, or a guarantee of hiring outcomes. U
 
 ---
 
+## About the Author
+
+**Kaushik Kuberanathan**  
+Product Manager | Digital Platforms, Mobile, eCommerce, AI-assisted Product Strategy
+
+I’m a senior product leader with experience across consumer and B2B platforms, specializing in:
+- Digital commerce & self-service platforms
+- Mobile app ecosystems at scale
+- Platform modernization & APIs
+- AI-assisted product discovery and decision-making
+
+This Career Strategy Team GPT reflects how I approach hiring, career decisions, and long-term professional growth—grounded in truth, clarity, and sustainable impact.
+
+### Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/kaushikkumarkuberanathan/
+- 🧠 Career Strategy GPT: https://chatgpt.com/g/g-69149958111c81918774f96ef886d90e-kaushik-s-career-strategy-team
+- 📫 Email: kaushik.kuberanathan@gmail.com
+
+If you’re exploring career transitions, senior IC → leadership moves, or building thoughtful AI-assisted tools in this space, feel free to reach out.
+
+---
+
 ## License
 MIT (see LICENSE).
